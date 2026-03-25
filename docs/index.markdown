@@ -14,7 +14,7 @@ title: Welcome
 
     <p>My research focuses on the role of magnetic fields and cosmic rays in galaxy formation, in particular in combining simulations with observations.</p>
 
-    <p>This website provides an overview of my scientific work, including selected publications and ongoing projects.</p>
+    <p>This website provides an overview of my scientific work, including selected <a href="/research">publications</a> and ongoing projects.</p>
 
     <p>Thank you for visiting, and feel free to <a href="/contact">get in touch</a> if you'd like to collaborate or learn more.</p>
 
