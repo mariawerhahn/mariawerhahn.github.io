@@ -1,21 +1,30 @@
 ---
 layout: default
-title: About Long Haul
+title: About
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Me</h1>
-    <p><em>Note: This website is currently a work in progress and will be updated shortly :)</em></p>
-	<img src="{{ '/assets/img/mountains_gap.jpeg' | relative_url }}" alt="">
-	<p class="intro">I study how cosmic rays and magnetic fields influence the evolution of galaxies. Using advanced simulations and modeling tools, I connect theoretical predictions with observations across radio and gamma-ray wavelengths. My work helps reveal how these components influence star formation, galactic winds, and shape the cosmic environment around galaxies.</p>
-	<h2>Scientific interests</h2>
-	<ul>
-		<li>Cosmic Rays</li>
-  		<li>Galaxy Formation</li>
-  		<li>Radio and gamma-ray emission</li>
-  	</ul>
-  <h2>Personal Background</h2>
-  <p>I am originally from Garmisch-Partenkirchen, and I completed my PhD at the Leibniz Institute for Astrophysics Potsdam (AIP) in 2022. Currently, I am a postdoctoral fellow at the Max Planck Institute for Astrophysics (MPA) in Garching, Germany.</p>
-  
-  <p>Outside of research, I enjoy hiking, skiing, dancing, reading and playing the piano.</p>
+  <h1 class="pageTitle">About Me</h1>
+
+  <p class="intro">
+    I am an astrophysicist currently working as a postdoctoral fellow at the Max Planck Institute for Astrophysics (MPA) in Garching, Germany. My research focuses on the role of cosmic rays and magnetic fields in galaxy evolution, combining numerical simulations with observational constraints across multiple wavelengths.
+  </p>
+
+  <h2>Background</h2>
+  <p>
+    I completed my PhD in 2022 at the Leibniz Institute for Astrophysics Potsdam (AIP). Originally from Garmisch-Partenkirchen, my academic path has taken me from the Alps to Potsdam and now to Garching, where I am again closer to the mountains.
+  </p>
+
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Cosmic Rays</li>
+    <li>Galaxy formation and evolution</li>
+    <li>Magnetic fields in galaxies</li>
+    <li>Multi-wavelength emission (radio and gamma rays)</li>
+  </ul>
+
+  <h2>Beyond Research</h2>
+  <p>
+    Outside of research, I enjoy spending time in the mountains, hiking and skiing, as well as dancing, reading, and playing the piano.
+  </p>
 </div>

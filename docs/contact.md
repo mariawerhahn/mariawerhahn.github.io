@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Kontakt
+title: Contact
 permalink: /contact
 ---
 
-# Kontakt
+# Contact
 
 Contact me via email: 
 📧 [mwerhahn [at] mpa-garching.mpg.de](mailto:mwerhahn@mpa-garching.mpg.de)
