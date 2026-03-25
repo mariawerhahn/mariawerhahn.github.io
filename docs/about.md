@@ -6,11 +6,10 @@ title: About
 <div class="post">
   <h1 class="pageTitle">About Me</h1>
 
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
-    
+  <div class="about-flex">
     <img src="{{ '/assets/img/Foto2.jpg' | relative_url }}" 
          alt="Profile photo" 
-         style="width: 180px; border-radius: 10px;">
+         class="profile-img">
 
   <!-- Flex container for image + intro paragraph -->
   <p class="intro">

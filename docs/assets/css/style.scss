@@ -32,4 +32,35 @@
 	@import "breakpoints/1200up";
 }
 
+/* =====================
+   Responsive About Me
+   ===================== */
+
+.about-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  width: 180px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .about-flex {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-img {
+    width: 150px;
+	max-width: 50%;
+    margin-bottom: 15px;
+  }
+}
+
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
