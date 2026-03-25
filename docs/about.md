@@ -6,10 +6,18 @@ title: About
 <div class="post">
   <h1 class="pageTitle">About Me</h1>
 
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    
+    <img src="{{ '/assets/img/Foto2.jpg' | relative_url }}" 
+         alt="Profile photo" 
+         style="width: 180px; border-radius: 10px;">
+
+  <!-- Flex container for image + intro paragraph -->
   <p class="intro">
     I am an astrophysicist currently working as a postdoctoral fellow at the Max Planck Institute for Astrophysics (MPA) in Garching, Germany. My research focuses on the role of cosmic rays and magnetic fields in galaxy evolution, combining numerical simulations with observational constraints across multiple wavelengths.
   </p>
-
+  </div> <!-- close flex container -->
+  
   <h2>Background</h2>
   <p>
     I completed my PhD in 2022 at the Leibniz Institute for Astrophysics Potsdam (AIP). Originally from Garmisch-Partenkirchen, my academic path has taken me from the Alps to Potsdam and now to Garching, where I am again closer to the mountains.
