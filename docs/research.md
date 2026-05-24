@@ -15,10 +15,13 @@ By modeling the resulting multi-wavelength emission, I aim to constrain cosmic r
 A full ist of my first author and co-author publications can be found [here](https://ui.adsabs.harvard.edu/public-libraries/Jus8K2n7Sni0mpBznIx-Lg).
 
 ## Selected Publications
+- **Werhahn, M.**, et al. (2026b, submitted)  
+  *Revisiting radio synchrotron diagnostics in star-forming galaxies*  
+  [ADS link](https://ui.adsabs.harvard.edu/abs/2026arXiv260420950W/abstract)
 
-- **Werhahn, M.**, et al. (2025, submitted)  
+- **Werhahn, M.**, et al. (2026a)  
   *Steady-State or Not? The Evolution of Cosmic Ray Electron Spectra in Galaxies*  
-  [ADS link](https://ui.adsabs.harvard.edu/abs/2025arXiv251113811W/abstract)
+  [ADS link](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag682W/abstract)
 
 - **Werhahn, M.**, et al. (2025)  
   *Environment matters: stronger magnetic fields in satellite galaxies*  
